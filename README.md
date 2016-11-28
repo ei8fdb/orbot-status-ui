@@ -7,7 +7,7 @@ The main screen sketches are really basic at the moment.
 
 I'll be making sketches covering the following statuses:
 
-1. Orbot is working and connected (to the Tor network and therefore you have Internet connection). [Sketches available)(https://github.com/ei8fdb/orbot-status-ui/blob/master/orbot-status-connected-options-v1.pdf)
+1. Orbot is working and connected (to the Tor network and therefore you have Internet connection). [Sketches available](https://github.com/ei8fdb/orbot-status-ui/blob/master/orbot-status-connected-options-v1.pdf)
 
 2. Orbot is not working because you do not have Internet connection.
 
